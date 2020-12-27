@@ -4,5 +4,3 @@ The data contained in these files comes from [AncientCommentators.org](http://ww
 - [BibTex](CAG_Bibtex.bib)
 - [ABNT](CAG_ABNT.md)
 - [APA](CAG_APA5th.md)
-- [Chicago](CAG_Chicago.md)
-- [RIS](CAG_RIS.md)
