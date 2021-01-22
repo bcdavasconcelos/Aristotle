@@ -1,25 +1,65 @@
 # Aristotle
 
-## Bibliography
-
-### Symposium Aristotelicum
-
-- [BibTeX](./Bibliography/Symposium-Aristotelicum.bib)
-- [Zotero](https://www.zotero.org/groups/2727860/symposium_aristotelicum)
-
-### Ancient Commentators on Aristotle
-
-- [BibTex](./Bibliography/CAG_Bibtex.bib)
-- [Zotero](https://www.zotero.org/groups/2718646/ancient-commentators-on-aristotle)
-
-The data contained in this file comes from [AncientCommentators.org](http://www.ancientcommentators.org.uk/translations-by-publication-date.html). It was converted into BibTex with the help of [AnyStyle.io](https://anystyle.io) and manually corrected by myself.
-
----  
+- [Organon](./#Organon)
+	- [ΚΑΤΗΓΟΡΙΑΙ](./#ΚΑΤΗΓΟΡΙΑΙ)
+	- [ΠΕΡΙ ΕΡΜΗΝΕΙΑΣ](./#ΠΕΡΙ-ΕΡΜΗΝΕΙΑΣ)
+	- [ΑΝΑΛΥΤΙΚΩΝ ΠΡΟΤΕΡΩΝ](./#ΑΝΑΛΥΤΙΚΩΝ-ΠΡΟΤΕΡΩΝ)
+	- [ΑΝΑΛΥΤΙΚΩΝ ΥΣΤΕΡΩΝ](./#ΑΝΑΛΥΤΙΚΩΝ-ΥΣΤΕΡΩΝ)
+	- [ΤΟΠΙΚΩΝ](./#ΤΟΠΙΚΩΝ)
+	- [ΠΕΡΙ ΤΩΝ ΣΟΦΙΣΤΙΚΩΝ ΕΛΕΓΧΩΝ](./#ΠΕΡΙ-ΤΩΝ-ΣΟΦΙΣΤΙΚΩΝ-ΕΛΕΓΧΩΝ)
+- [Second Philosophy](./#Second-Philosophy)
+	- [ΦΥΣΙΚΗΣ ΑΚΡΟΑΣΕΩΣ](./#ΦΥΣΙΚΗΣ-ΑΚΡΟΑΣΕΩΣ)
+	- [ΠΕΡΙ ΟΥΡΑΝΟΥ](./#ΠΕΡΙ-ΟΥΡΑΝΟΥ)
+	- [ΠΕΡΙ ΓΕΝΕΣΕΩΣ ΚΑΙ ΦΘΟΡΑΣ](./#ΠΕΡΙ-ΓΕΝΕΣΕΩΣ-ΚΑΙ-ΦΘΟΡΑΣ)
+	- [ΜΕΤΕΩΡΟΛΟΓΙΚΩΝ](./#ΜΕΤΕΩΡΟΛΟΓΙΚΩΝ)
+	- [ΠΕΡΙ ΚΟΣΜΟΥ](./#ΠΕΡΙ-ΚΟΣΜΟΥ)
+	- [ΠΕΡΙ ΨΥΧΗΣ](./#ΠΕΡΙ-ΨΥΧΗΣ)
+- [Parva Naturalia](./#Parva-Naturalia)
+	- [ΠΕΡΙ ΑΙΣΘΗΣΕΩΣ ΚΑΙ ΑΙΣΘΗΤΩΝ](./#ΠΕΡΙ-ΑΙΣΘΗΣΕΩΣ-ΚΑΙ-ΑΙΣΘΗΤΩΝ)
+	- [ΠΕΡΙ ΜΝΗΜΗΣ ΚΑΙ ΑΝΑΜΝΗΣΕΩΣ](./#ΠΕΡΙ-ΜΝΗΜΗΣ-ΚΑΙ-ΑΝΑΜΝΗΣΕΩΣ)
+	- [ΠΕΡΙ ΥΠΝΟΝ ΚΑΙ ΕΓΡΗΓΟΡΣΕΩΣ](./#ΠΕΡΙ-ΥΠΝΟΝ-ΚΑΙ-ΕΓΡΗΓΟΡΣΕΩΣ)
+	- [ΠΕΡΙ ΕΝΥΠΝΙΩΝ](./#ΠΕΡΙ-ΕΝΥΠΝΙΩΝ)
+	- [ΠΕΡΙ ΤΗΣ ΚΑΘ᾽ ΥΠΝΟΝ ΜΑΝΤΙΚΗΣ](./#ΠΕΡΙ-ΤΗΣ-ΚΑΘ᾽-ΥΠΝΟΝ-ΜΑΝΤΙΚΗΣ)
+	- [ΠΕΡΙ ΜΑΚΡΟΒΙΟΤΗΤΟΣ ΚΑΙ ΒΡΑΧΥΒΙΟΤΗΤΟΣ](./#ΠΕΡΙ-ΜΑΚΡΟΒΙΟΤΗΤΟΣ-ΚΑΙ-ΒΡΑΧΥΒΙΟΤΗΤΟΣ)
+	- [ΠΕΡΙ ΝΕΟΤΗΤΟΣ ΚΑΙ ΓΗΡΩΣ, ΚΑΙ ΖΩΗΣ ΚΑΙ ΘΑΝΑΤΟΥ, ΚΑΙ ΑΝΑΠΝΟΗΣ](./#ΠΕΡΙ-ΝΕΟΤΗΤΟΣ-ΚΑΙ-ΓΗΡΩΣ,-ΚΑΙ-ΖΩΗΣ-ΚΑΙ-ΘΑΝΑΤΟΥ,-ΚΑΙ-ΑΝΑΠΝΟΗΣ)
+- [Natural Philosophy](./#Natural-Philosophy)
+	- [ΠΕΡΙ ΠΝΕΥΜΑΤΟΣ](./#ΠΕΡΙ-ΠΝΕΥΜΑΤΟΣ)
+	- [ΤΩΝ ΠΕΡΙ ΤΑ ΖΩΙΑ ΙΣΤΟΡΙΩΝ](./#ΤΩΝ-ΠΕΡΙ-ΤΑ-ΖΩΙΑ-ΙΣΤΟΡΙΩΝ)
+	- [ΠΕΡΙ ΖΩΙΩΝ ΜΟΡΙΩΝ](./#ΠΕΡΙ-ΖΩΙΩΝ-ΜΟΡΙΩΝ)
+	- [ΠΕΡΙ ΖΩΙΩΝ ΚΙΝΗΣΕΩΣ](./#ΠΕΡΙ-ΖΩΙΩΝ-ΚΙΝΗΣΕΩΣ)
+	- [ΠΕΡΙ ΠΟΡΕΙΑΣ ΖΩΙΩΝ](./#ΠΕΡΙ-ΠΟΡΕΙΑΣ-ΖΩΙΩΝ)
+	- [ΠΕΡΙ ΖΩΙΩΝ ΓΕΝΕΣΕΩΣ](./#ΠΕΡΙ-ΖΩΙΩΝ-ΓΕΝΕΣΕΩΣ)
+	- [ΠΕΡΙ ΧΡΩΜΑΤΩΝ](./#ΠΕΡΙ-ΧΡΩΜΑΤΩΝ)
+	- [ΕΚ ΤΟΥ ΠΕΡΙ ΑΚΟΥΣΤΩΝ](./#ΕΚ-ΤΟΥ-ΠΕΡΙ-ΑΚΟΥΣΤΩΝ)
+	- [ΦΥΣΙΟΓΝΩΜΟΝΙΚΑ](./#ΦΥΣΙΟΓΝΩΜΟΝΙΚΑ)
+	- [ΠΕΡΙ ΦΥΤΩΝ](./#ΠΕΡΙ-ΦΥΤΩΝ)
+	- [ΠΕΡΙ ΘΑΥΜΑΣΙΩΝ ΑΚΟΥΣΜΑΤΩΝ](./#ΠΕΡΙ-ΘΑΥΜΑΣΙΩΝ-ΑΚΟΥΣΜΑΤΩΝ)
+	- [ΜΗΧΑΝΙΚΑ](./#ΜΗΧΑΝΙΚΑ)
+	- [ΠΡΟΒΛΗΜΑΤΑ](./#ΠΡΟΒΛΗΜΑΤΑ)
+	- [ΠΕΡΙ ΑΤΟΜΩΝ ΓΡΑΜΜΩΝ](./#ΠΕΡΙ-ΑΤΟΜΩΝ-ΓΡΑΜΜΩΝ)
+	- [ΑΝΕΜΩΝ ΘΕΣΕΙΣ ΚΑΙ ΠΡΟΣΗΓΟΡΙΑΙ](./#ΑΝΕΜΩΝ-ΘΕΣΕΙΣ-ΚΑΙ-ΠΡΟΣΗΓΟΡΙΑΙ)
+	- [ΠΕΡΙ ΞΕΝΟΦΑΝΟΥΣ, ΠΕΡΙ ΖΗΝΩΝΟΣ, ΠΕΡΙ ΓΟΡΓΙΟΥ](./#ΠΕΡΙ-ΞΕΝΟΦΑΝΟΥΣ,-ΠΕΡΙ-ΖΗΝΩΝΟΣ,-ΠΕΡΙ-ΓΟΡΓΙΟΥ)
+- [First Philosophy](./#First-Philosophy)
+	- [ΤΩΝ ΜΕΤΑ ΤΑ ΦΥΣΙΚΑ](./#ΤΩΝ-ΜΕΤΑ-ΤΑ-ΦΥΣΙΚΑ)
+- [Political Philosophy](./#Political-Philosophy)
+	- [ΗΘΙΚΩΝ ΝΙΚΟΜΑΧΕΙΩΝ](./#ΗΘΙΚΩΝ-ΝΙΚΟΜΑΧΕΙΩΝ)
+	- [ΗΘΙΚΑ ΜΕΓΑΛΑ](./#ΗΘΙΚΑ-ΜΕΓΑΛΑ)
+	- [ΗΘΙΚΩΝ ΕΥΔΗΜΙΩΝ](./#ΗΘΙΚΩΝ-ΕΥΔΗΜΙΩΝ)
+	- [ΠΕΡΙ ΑΡΕΤΩΝ ΚΑΙ ΚΑΚΙΩΝ](./#ΠΕΡΙ-ΑΡΕΤΩΝ-ΚΑΙ-ΚΑΚΙΩΝ)
+	- [ΠΟΛΙΤΙΚΩΝ](./#ΠΟΛΙΤΙΚΩΝ)
+	- [ΟΙΚΟΝΟΜΙΚΟΣ](./#ΟΙΚΟΝΟΜΙΚΟΣ)
+	- [Atheniensium Respublica](./#Atheniensium-Respublica)
+- [Rhetoric & Poetics](./#Rhetoric-&-Poetics)
+	- [ΡΗΤΟΡΙΚΗ](./#ΡΗΤΟΡΙΚΗ)
+	- [ΡΗΤΟΡΙΚΗ ΠΡΟΣ ΑΛΕΞΑΝΔΡΟΝ](./#ΡΗΤΟΡΙΚΗ-ΠΡΟΣ-ΑΛΕΞΑΝΔΡΟΝ)
+	- [ΠΕΡΙ ΠΟΙΗΤΙΚΗΣ](./#ΠΕΡΙ-ΠΟΙΗΤΙΚΗΣ)
+- [Symposium Aristotelicum](./#Symposium-Aristotelicum)
+- [Ancient Commentators on Aristotle](./#Ancient-Commentators-on-Aristotle)
   
-# Organon  
+## Organon  
   
   
-## ΚΑΤΗΓΟΡΙΑΙ  
+### ΚΑΤΗΓΟΡΙΑΙ  
 
 **Id:** 0086.006  
 **Abbr:** *Cat.*  
@@ -30,7 +70,7 @@ L. Minio–Paluello. *OCT*, 1949
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/n16/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=006&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=006),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg006)   
   
   
-## ΠΕΡΙ ΕΡΜΗΝΕΙΑΣ  
+### ΠΕΡΙ ΕΡΜΗΝΕΙΑΣ  
 
 **Id:** 0086.017  
 **Abbr:** *Int.*  
@@ -41,7 +81,7 @@ L. Minio–Paluello. *OCT*, 1949
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/16/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=017&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=017),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg017)   
   
   
-## ΑΝΑΛΥΤΙΚΩΝ ΠΡΟΤΕΡΩΝ  
+### ΑΝΑΛΥΤΙΚΩΝ ΠΡΟΤΕΡΩΝ  
 
 **Id:** 0086.001  
 **Abbr:** *APr.*  
@@ -52,7 +92,7 @@ W. D. Ross. *OCT*, 1964
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/24/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=001&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=001),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg001)   
   
   
-## ΑΝΑΛΥΤΙΚΩΝ ΥΣΤΕΡΩΝ  
+### ΑΝΑΛΥΤΙΚΩΝ ΥΣΤΕΡΩΝ  
 
 **Id:** 0086.001  
 **Abbr:** *APo.*  
@@ -63,7 +103,7 @@ W. D. Ross. *OCT*, 1964
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/71/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=001&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=001),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg001)   
   
   
-## ΤΟΠΙΚΩΝ  
+### ΤΟΠΙΚΩΝ  
 
 **Id:** 0086.044  
 **Abbr:** *Top.*  
@@ -74,7 +114,7 @@ W. D. Ross. *OCT*, 1958
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/100/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=044&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=044),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg044)   
   
   
-## ΠΕΡΙ ΤΩΝ ΣΟΦΙΣΤΙΚΩΝ ΕΛΕΓΧΩΝ  
+### ΠΕΡΙ ΤΩΝ ΣΟΦΙΣΤΙΚΩΝ ΕΛΕΓΧΩΝ  
 
 **Id:** 0086.040  
 **Abbr:** *SE, SophElench*  
@@ -85,10 +125,10 @@ W. D. Ross. *OCT*, 1958
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/164/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=040&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=040),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg040)   
   
   
-# Second Philosophy  
+## Second Philosophy  
   
   
-## ΦΥΣΙΚΗΣ ΑΚΡΟΑΣΕΩΣ  
+### ΦΥΣΙΚΗΣ ΑΚΡΟΑΣΕΩΣ  
 
 **Id:** 0086.031  
 **Abbr:** *Ph, Phys*  
@@ -99,7 +139,7 @@ W. D. Ross. *OCT*, 1950
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/184/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=031&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=031),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg031)   
   
   
-## ΠΕΡΙ ΟΥΡΑΝΟΥ  
+### ΠΕΡΙ ΟΥΡΑΝΟΥ  
 
 **Id:** 0086.005  
 **Abbr:** *Cael.*  
@@ -110,7 +150,7 @@ P. Moraux. *Budé*, 1965
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/268/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=005&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=005),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg005)   
   
   
-## ΠΕΡΙ ΓΕΝΕΣΕΩΣ ΚΑΙ ΦΘΟΡΑΣ  
+### ΠΕΡΙ ΓΕΝΕΣΕΩΣ ΚΑΙ ΦΘΟΡΑΣ  
 
 **Id:** 0086.013  
 **Abbr:** *GC*  
@@ -122,7 +162,7 @@ H. H. Joachim. *OCT*, 1922
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/314/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=013&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=013),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg013)   
   
   
-## ΜΕΤΕΩΡΟΛΟΓΙΚΩΝ  
+### ΜΕΤΕΩΡΟΛΟΓΙΚΩΝ  
 
 **Id:** 0086.026  
 **Abbr:** *Mete.*  
@@ -134,7 +174,7 @@ F. H. Fobes. *LOEB*, 1919
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/338/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=026&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=026),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg026)   
   
   
-## ΠΕΡΙ ΚΟΣΜΟΥ  
+### ΠΕΡΙ ΚΟΣΜΟΥ  
 
 **Id:** 0086.028  
 **Abbr:** *Mu.*  
@@ -146,7 +186,7 @@ W. L. Lorimer. *Budé*, 1933
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/391/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=028&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=028),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg028)   
   
   
-## ΠΕΡΙ ΨΥΧΗΣ  
+### ΠΕΡΙ ΨΥΧΗΣ  
 
 **Id:** 0086.002  
 **Abbr:** *DA, de An.*  
@@ -161,10 +201,10 @@ A. Förster. *Hung.*, 1912
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/402/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=002&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=002),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg002)   
   
   
-# Parva Naturalia  
+## Parva Naturalia  
   
   
-## ΠΕΡΙ ΑΙΣΘΗΣΕΩΣ ΚΑΙ ΑΙΣΘΗΤΩΝ  
+### ΠΕΡΙ ΑΙΣΘΗΣΕΩΣ ΚΑΙ ΑΙΣΘΗΤΩΝ  
 
 **Id:** 0086.041  
 **Abbr:** *Sensu*  
@@ -175,7 +215,7 @@ W. D. Ross. *OCT*, 1955
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/436/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=041&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=041),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg041)   
   
   
-## ΠΕΡΙ ΜΝΗΜΗΣ ΚΑΙ ΑΝΑΜΝΗΣΕΩΣ  
+### ΠΕΡΙ ΜΝΗΜΗΣ ΚΑΙ ΑΝΑΜΝΗΣΕΩΣ  
 
 **Id:** 0086.024  
 **Abbr:** *Mem.*  
@@ -186,7 +226,7 @@ W. D. Ross. *OCT*, 1955
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/449/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=024&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=024),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg024)   
   
   
-## ΠΕΡΙ ΥΠΝΟΝ ΚΑΙ ΕΓΡΗΓΟΡΣΕΩΣ  
+### ΠΕΡΙ ΥΠΝΟΝ ΚΑΙ ΕΓΡΗΓΟΡΣΕΩΣ  
 
 **Id:** 0086.042  
 **Abbr:** *SomnVig.*  
@@ -197,7 +237,7 @@ W. D. Ross. *OCT*, 1955
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/453/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=042&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=042),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg042)   
   
   
-## ΠΕΡΙ ΕΝΥΠΝΙΩΝ  
+### ΠΕΡΙ ΕΝΥΠΝΙΩΝ  
 
 **Id:** 0086.016  
 **Abbr:** *Insomn.*  
@@ -208,7 +248,7 @@ W. D. Ross. *OCT*, 1955
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/458/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=016&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=016),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg016)   
   
   
-## ΠΕΡΙ ΤΗΣ ΚΑΘ᾽ ΥΠΝΟΝ ΜΑΝΤΙΚΗΣ  
+### ΠΕΡΙ ΤΗΣ ΚΑΘ᾽ ΥΠΝΟΝ ΜΑΝΤΙΚΗΣ  
 
 **Id:** 0086.008  
 **Abbr:** *Div.Somn.*  
@@ -219,7 +259,7 @@ W. D. Ross. *OCT*, 1955
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/462/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=008&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=008),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg008)   
   
   
-## ΠΕΡΙ ΜΑΚΡΟΒΙΟΤΗΤΟΣ ΚΑΙ ΒΡΑΧΥΒΙΟΤΗΤΟΣ  
+### ΠΕΡΙ ΜΑΚΡΟΒΙΟΤΗΤΟΣ ΚΑΙ ΒΡΑΧΥΒΙΟΤΗΤΟΣ  
 
 **Id:** 0086.020  
 **Abbr:** *Long.*  
@@ -230,7 +270,7 @@ W. D. Ross. *OCT*, 1955
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/464/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=020&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=020),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg020)   
   
   
-## ΠΕΡΙ ΝΕΟΤΗΤΟΣ ΚΑΙ ΓΗΡΩΣ, ΚΑΙ ΖΩΗΣ ΚΑΙ ΘΑΝΑΤΟΥ, ΚΑΙ ΑΝΑΠΝΟΗΣ  
+### ΠΕΡΙ ΝΕΟΤΗΤΟΣ ΚΑΙ ΓΗΡΩΣ, ΚΑΙ ΖΩΗΣ ΚΑΙ ΘΑΝΑΤΟΥ, ΚΑΙ ΑΝΑΠΝΟΗΣ  
 
 0086.018, 0086.037  
 **Abbr:** *Juv., Resp.*  
@@ -241,10 +281,10 @@ W. D. Ross. *OCT*, 1955
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/467/mode/1up),  [TLG (1)](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=018&st=0),  [Diogenes (1)](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=018),  [TLG (2)](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=037&st=0),  [Diogenes (2)](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=037),  [Perseus Catalog (1)](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg018),  [Perseus Catalog (2)](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg037)   
   
   
-# Natural Philosophy  
+## Natural Philosophy  
   
   
-## ΠΕΡΙ ΠΝΕΥΜΑΤΟΣ  
+### ΠΕΡΙ ΠΝΕΥΜΑΤΟΣ  
 
 **Id:** 0086.043  
 **Abbr:** *Spir.*  
@@ -255,7 +295,7 @@ W. Jaeger. *Teubner*, 1913
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/481/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=043&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=043),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg043)   
   
   
-## ΤΩΝ ΠΕΡΙ ΤΑ ΖΩΙΑ ΙΣΤΟΡΙΩΝ  
+### ΤΩΝ ΠΕΡΙ ΤΑ ΖΩΙΑ ΙΣΤΟΡΙΩΝ  
 
 **Id:** 0086.014  
 **Abbr:** *HA*  
@@ -266,7 +306,7 @@ P. Louis. *Budé*, 1964
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/486/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=014&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=014),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg014)   
   
   
-## ΠΕΡΙ ΖΩΙΩΝ ΜΟΡΙΩΝ  
+### ΠΕΡΙ ΖΩΙΩΝ ΜΟΡΙΩΝ  
 
 **Id:** 0086.030  
 **Abbr:** *PA*  
@@ -278,7 +318,7 @@ B. Langkavel. *Teubner*, 1868
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/639/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=030&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=030),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg030)   
   
   
-## ΠΕΡΙ ΖΩΙΩΝ ΚΙΝΗΣΕΩΣ  
+### ΠΕΡΙ ΖΩΙΩΝ ΚΙΝΗΣΕΩΣ  
 
 **Id:** 0086.021  
 **Abbr:** *MA*  
@@ -291,7 +331,7 @@ W. Jaeger. *Teubner*, 1913
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/698/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=021&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=021),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg021)   
   
   
-## ΠΕΡΙ ΠΟΡΕΙΑΣ ΖΩΙΩΝ  
+### ΠΕΡΙ ΠΟΡΕΙΑΣ ΖΩΙΩΝ  
 
 **Id:** 0086.015  
 **Abbr:** *IA*  
@@ -303,7 +343,7 @@ W. Jaeger. *Teubner*, 1913
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/704/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=015&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=015),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg015)   
   
   
-## ΠΕΡΙ ΖΩΙΩΝ ΓΕΝΕΣΕΩΣ  
+### ΠΕΡΙ ΖΩΙΩΝ ΓΕΝΕΣΕΩΣ  
 
 **Id:** 0086.012  
 **Abbr:** *GA*  
@@ -314,7 +354,7 @@ H. J. Drossaart Lulofs. *OCT*, 1965
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera01arisrich#page/715/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=012&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=012),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg012)   
   
   
-## ΠΕΡΙ ΧΡΩΜΑΤΩΝ  
+### ΠΕΡΙ ΧΡΩΜΑΤΩΝ  
 
 **Id:** 0086.007  
 **Abbr:** *Col.*  
@@ -325,7 +365,7 @@ C. Prantl. *Teubner*, 1881
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/791/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=007&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=007),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg007)   
   
   
-## ΕΚ ΤΟΥ ΠΕΡΙ ΑΚΟΥΣΤΩΝ  
+### ΕΚ ΤΟΥ ΠΕΡΙ ΑΚΟΥΣΤΩΝ  
 
 **Id:** 0086.004  
 **Abbr:** *Aud.*  
@@ -336,7 +376,7 @@ C. Prantl. *Teubner*, 1881
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/800/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=004&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=004),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg004)   
   
   
-## ΦΥΣΙΟΓΝΩΜΟΝΙΚΑ  
+### ΦΥΣΙΟΓΝΩΜΟΝΙΚΑ  
 
 **Id:** 0086.032  
 **Abbr:** *Phgn.*  
@@ -347,7 +387,7 @@ C. Prantl. *Teubner*, 1881
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/805/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=032&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=032),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg032)   
   
   
-## ΠΕΡΙ ΦΥΤΩΝ  
+### ΠΕΡΙ ΦΥΤΩΝ  
 
 **Id:** 0086.039  
 **Abbr:** *Plant.*  
@@ -358,7 +398,7 @@ M. F. Ferrini. *Bompiani*, 2012
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/813/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=039&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=039),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg039)   
   
   
-## ΠΕΡΙ ΘΑΥΜΑΣΙΩΝ ΑΚΟΥΣΜΑΤΩΝ  
+### ΠΕΡΙ ΘΑΥΜΑΣΙΩΝ ΑΚΟΥΣΜΑΤΩΝ  
 
 **Id:** 0086.027  
 **Abbr:** *Mir.*  
@@ -369,7 +409,7 @@ O. Apelt. *Teubner*, 1888
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/830/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=027&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=027),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg027)   
   
   
-## ΜΗΧΑΝΙΚΑ  
+### ΜΗΧΑΝΙΚΑ  
 
 **Id:** 0086.023  
 **Abbr:** *Mech.*  
@@ -380,7 +420,7 @@ O. Apelt. *Teubner*, 1888
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/847/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=023&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=023),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg023)   
   
   
-## ΠΡΟΒΛΗΜΑΤΑ  
+### ΠΡΟΒΛΗΜΑΤΑ  
 
 **Id:** 0086.036  
 **Abbr:** *Prob.*  
@@ -391,7 +431,7 @@ P. Louis. *Budé*, 1991-94
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/859/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=036&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=036),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg036)   
   
   
-## ΠΕΡΙ ΑΤΟΜΩΝ ΓΡΑΜΜΩΝ  
+### ΠΕΡΙ ΑΤΟΜΩΝ ΓΡΑΜΜΩΝ  
 
 **Id:** 0086.019  
 **Abbr:** *L.I.*  
@@ -402,7 +442,7 @@ O. Apelt. *Teubner*, 1888
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/968/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=019&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=019),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg019)   
   
   
-## ΑΝΕΜΩΝ ΘΕΣΕΙΣ ΚΑΙ ΠΡΟΣΗΓΟΡΙΑΙ  
+### ΑΝΕΜΩΝ ΘΕΣΕΙΣ ΚΑΙ ΠΡΟΣΗΓΟΡΙΑΙ  
 
 **Id:** 0086.046  
 **Abbr:** *Vent.*  
@@ -413,7 +453,7 @@ O. Apelt. *Teubner*, 1888
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/973/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=046&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=046),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg046)   
   
   
-## ΠΕΡΙ ΞΕΝΟΦΑΝΟΥΣ, ΠΕΡΙ ΖΗΝΩΝΟΣ, ΠΕΡΙ ΓΟΡΓΙΟΥ  
+### ΠΕΡΙ ΞΕΝΟΦΑΝΟΥΣ, ΠΕΡΙ ΖΗΝΩΝΟΣ, ΠΕΡΙ ΓΟΡΓΙΟΥ  
 
 **Id:** 0086.057  
 **Abbr:** *Xen.*  
@@ -425,10 +465,10 @@ O. Apelt. *Teubner*, 1888
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/974/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=057&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=057),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg057)   
   
   
-# First Philosophy  
+## First Philosophy  
   
   
-## ΤΩΝ ΜΕΤΑ ΤΑ ΦΥΣΙΚΑ  
+### ΤΩΝ ΜΕΤΑ ΤΑ ΦΥΣΙΚΑ  
 
 **Id:** 0086.025  
 **Abbr:** *Metaph.*  
@@ -441,10 +481,10 @@ W. D. Ross. *OCT*, 1924
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/980/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=025&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=025),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg025)   
   
   
-# Political Philosophy  
+## Political Philosophy  
   
   
-## ΗΘΙΚΩΝ ΝΙΚΟΜΑΧΕΙΩΝ  
+### ΗΘΙΚΩΝ ΝΙΚΟΜΑΧΕΙΩΝ  
 
 **Id:** 0086.010  
 **Abbr:** *EN*  
@@ -457,7 +497,7 @@ I. Bywater. *OCT*, 1890
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/1094/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=010&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=010),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg010)   
   
   
-## ΗΘΙΚΑ ΜΕΓΑΛΑ  
+### ΗΘΙΚΑ ΜΕΓΑΛΑ  
 
 **Id:** 0086.022  
 **Abbr:** *MM*  
@@ -468,7 +508,7 @@ F. Susemihl. *Teubner*, 1883
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/1181/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=022&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=022),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg022)   
   
   
-## ΗΘΙΚΩΝ ΕΥΔΗΜΙΩΝ  
+### ΗΘΙΚΩΝ ΕΥΔΗΜΙΩΝ  
 
 **Id:** 0086.009  
 **Abbr:** *EE*  
@@ -480,7 +520,7 @@ F. Susemihl. *Teubner*, 1884
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/1214/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=009&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=009),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg009)   
   
   
-## ΠΕΡΙ ΑΡΕΤΩΝ ΚΑΙ ΚΑΚΙΩΝ  
+### ΠΕΡΙ ΑΡΕΤΩΝ ΚΑΙ ΚΑΚΙΩΝ  
 
 **Id:** 0086.045  
 **Abbr:** *VV*  
@@ -491,7 +531,7 @@ F. Susemihl. *Teubner*, 1884
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/1249/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=045&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=045),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg045)   
   
   
-## ΠΟΛΙΤΙΚΩΝ  
+### ΠΟΛΙΤΙΚΩΝ  
 
 **Id:** 0086.035  
 **Abbr:** *Pol.*  
@@ -504,7 +544,7 @@ W. D. Ross, *OCT*, 1957
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/1252/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=035&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=035),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg035)   
   
   
-## ΟΙΚΟΝΟΜΙΚΟΣ  
+### ΟΙΚΟΝΟΜΙΚΟΣ  
 
 **Id:** 0086.029  
 **Abbr:** *Oec.*  
@@ -516,7 +556,7 @@ B. A. van Groningen & A. Wartelle. *Budé*, 1968
 **Bibliography:**  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg029)   
   
   
-## Atheniensium Respublica  
+### Atheniensium Respublica  
 
 **Id:** 0086.003  
 **Abbr:** *Ath.*  
@@ -528,10 +568,10 @@ A. Tovar. CP, 1948
 **Links:**   [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=003&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=003),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg003)   
   
   
-# Rhetoric & Poetics  
+## Rhetoric & Poetics  
   
   
-## ΡΗΤΟΡΙΚΗ  
+### ΡΗΤΟΡΙΚΗ  
 
 **Id:** 0086.038  
 **Abbr:** *Rh, Rhet.*  
@@ -542,7 +582,7 @@ W. D. Ross. *OCT*, 1959
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/1354/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=038&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=038),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg038)   
   
   
-## ΡΗΤΟΡΙΚΗ ΠΡΟΣ ΑΛΕΞΑΝΔΡΟΝ  
+### ΡΗΤΟΡΙΚΗ ΠΡΟΣ ΑΛΕΞΑΝΔΡΟΝ  
 
 **Greek title:** Ῥητορικὴ πρὸς Αλέξανδρον  
 **Bekker pages:** 1420a10 - 1447b  
@@ -551,7 +591,7 @@ I. Bekker. *Reimer*, 1831
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/1420/mode/1up)   
   
   
-## ΠΕΡΙ ΠΟΙΗΤΙΚΗΣ  
+### ΠΕΡΙ ΠΟΙΗΤΙΚΗΣ  
 
 **Id:** 0086.034  
 **Abbr:** *Poet.*  
@@ -560,3 +600,14 @@ I. Bekker. *Reimer*, 1831
 **Editions:**   
 R. Kassel. *OCT*, 1965  
 **Links:**   [Bekker (1831)](https://archive.org/stream/aristotelisopera02arisrich#page/1447/mode/1up),  [TLG](http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&aid=0086wid=034&st=0),  [Diogenes](http://localhost:8888/Diogenes.cgi?short_typeXXstate=tlg&current_pageXXstate=browser_passage&authorXXstate=0086&workXXstate=034),  [Perseus Catalog](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg034) 
+
+
+## Symposium Aristotelicum
+
+- [BibTeX](./Bibliography/Symposium-Aristotelicum.bib)
+- [Zotero](https://www.zotero.org/groups/2727860/symposium_aristotelicum)
+
+## Ancient Commentators on Aristotle
+
+- [BibTex](./Bibliography/CAG_Bibtex.bib)
+- [Zotero](https://www.zotero.org/groups/2718646/ancient-commentators-on-aristotle)
